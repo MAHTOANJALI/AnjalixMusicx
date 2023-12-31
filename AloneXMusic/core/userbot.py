@@ -93,8 +93,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("AlonesHeaven")
-                await self.one.join_chat("AloneXBots")
+                await self.three.join_chat("AnjalixSupportxChannel")
+                await self.one.join_chat("AnjalixSupportxChannel")
             except:
                 pass
             assistants.append(3)
