@@ -19,25 +19,25 @@
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 
 <p align='center'>
-  <img src="https://img.shields.io/github/forks/TeamAloneOp/AloneXMusic?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/stars/TeamAloneOp/AloneXMusic?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/issues/TeamAloneOp/AloneXMusic?style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/license/TeamAloneOp/AloneXMusic?style=flat-square" alt="LICENSE">
-  <img src="https://img.shields.io/github/contributors/TeamAloneOp/AloneXMusic?style=flat-square" alt="Contributors">
-  <img src="https://img.shields.io/github/repo-size/TeamAloneOp/AloneXMusic?style=flat-square" alt="Repo Size">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TeamAloneOp/AloneXMusic&amp;title=Repo%20Views" alt="Views">
+  <img src="https://img.shields.io/github/forks/MAHTOANJALI/AnjalixMusicx?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/stars/MAHTOANJALI/AnjalixMusicx?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/issues/MAHTOANJALI/AnjalixMusicx?style=flat-square" alt="Issues">
+  <img src="https://img.shields.io/github/license/MAHTOANJALI/AnjalixMusicx?style=flat-square" alt="LICENSE">
+  <img src="https://img.shields.io/github/contributors/MAHTOANJALI/AnjalixMusicx?style=flat-square" alt="Contributors">
+  <img src="https://img.shields.io/github/repo-size/MAHTOANJALI/AnjalixMusicx?style=flat-square" alt="Repo Size">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MAHTOANJALI/AnjalixMusicx&amp;title=Repo%20Views" alt="Views">
 </p>
 
 <p align='center'>
-  <a href="https://t.me/ALONE_WAS_BOT" alt="Made-By-Alone"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
+  <a href="https://t.me/QUEENx_GOD" alt="Made-By-Anjali"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
 
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗠𝗔𝗛𝗧𝗢+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+ANJALI+🎭">
 <p align="center">
   <img src="https://te.legra.ph/file/9270f2b5dc9207aebc12d.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗔𝗡𝗝𝗔𝗟𝗜🍷𝗠𝗨𝗦𝗜𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/anjalixmusicxbot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗔𝗡𝗝𝗔𝗟𝗜🍷𝗠𝗨𝗦𝗜𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/@anjalixworldxbot)**
 
 
 
@@ -50,22 +50,22 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-[![Deploy To Heroku](https://te.legra.ph/file/f3c2ae32308fbc89f570b.jpg)](https://dashboard.heroku.com/new-app?template=https://github.com/TeamAloneOp/AloneXMusic)
+[![Deploy To Heroku](https://te.legra.ph/file/f3c2ae32308fbc89f570b.jpg)](https://dashboard.heroku.com/new-app?template=https://github.com/MAHTOANJALI/AnjalixMusicx)
 
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 
-- [![YouTube Video Views](https://img.shields.io/youtube/views/U8T5W3J1FNo?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/U8T5W3J1FNo)
+- [![YouTube Video Views](https://img.shields.io/youtube/views/U8T5W3J1FNo?label=Tutorial+•+Heroku+•&style=social)](https://t.me/QUEENx_GOD)
 
 <h2 align="center">
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
-[![ALONE](https://te.legra.ph/file/2205905024f434e1ee3a6.jpg)](https://t.me/BLACKx_GOD)
+[![ALONE](https://te.legra.ph/file/2205905024f434e1ee3a6.jpg)](https://t.me/QUEENx_GOD)
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/TeamAloneOp/AloneXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/MAHTOANJALI/AnjalixMusicx/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -77,7 +77,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/TeamAloneOp/AloneXMusic && cd AloneXMusic`
+`git clone https://github.com/MAHTOANJALI/AnjalixMusicx && cd AnjalixMusicx`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -98,7 +98,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AlonesHeaven"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/QUEENx_GOD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
