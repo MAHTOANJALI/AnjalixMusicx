@@ -49,7 +49,7 @@ async def start(_, msg):
 #InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://github.com/TeamAloneOp/AloneXChatBot"),
 #InlineKeyboardButton("𝗜𝗗 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://github.com/TeamAloneOp/AloneXIdChatbot"),
 #],
-[
+#[
             #  InlineKeyboardButton("𝗦𝗣𝗔𝗠", url=f"https://github.com/TeamAloneOp/AloneXSpam"),
             #  InlineKeyboardButton("𝗕𝗔𝗡𝗔𝗟𝗟", url=f"https://github.com/TeamAloneOp/AloneXBanallBot"),
             #  ],
