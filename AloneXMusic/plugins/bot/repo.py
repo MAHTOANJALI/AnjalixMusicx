@@ -30,7 +30,7 @@ async def start(_, msg):
           InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/QUEENx_GOD"),
           ],
                [
-                InlineKeyboardButton("𝗔𝗟𝗢𝗡𝗘 𝗡𝗘𝗧𝗪𝗢𝗥𝗞", url=f"https://t.me/AloneXBots"),
+                InlineKeyboardButton("𝗔𝗡𝗝𝗔𝗟𝗜 𝗪𝗢𝗥𝗟𝗗", url=f"https://t.me/MAHTOxOFFICIAL"),
 
 ],
 [
@@ -42,8 +42,8 @@ async def start(_, msg):
 InlineKeyboardButton("𝗩2 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧", url=f"https://github.com/TeamAloneOp/AloneRobot"),
 ],
 [
-InlineKeyboardButton("𝗧𝗘𝗟𝗘𝗧𝗛𝗢𝗡 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/TeamAloneOp/Telethon-Music"),
-InlineKeyboardButton("𝗔𝗟𝗢𝗡𝗘 𝗬𝗨𝗞𝗞𝗜", url=f"https://github.com/TeamAloneOp/AloneMusicBot"),
+InlineKeyboardButton("𝗔𝗡𝗝𝗔𝗟𝗜 𝗠𝗨𝗦𝗜𝗖¹", url=f"https://github.com/TeamAloneOp/Telethon-Music"),
+InlineKeyboardButton("𝗔𝗡𝗝𝗔𝗟𝗜 𝗠𝗨𝗦𝗜𝗖²", url=f"https://github.com/TeamAloneOp/AloneMusicBot"),
 ],
 [
 InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://github.com/TeamAloneOp/AloneXChatBot"),
@@ -54,12 +54,12 @@ InlineKeyboardButton("𝗜𝗗 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://git
               InlineKeyboardButton("𝗕𝗔𝗡𝗔𝗟𝗟", url=f"https://github.com/TeamAloneOp/AloneXBanallBot"),
               ],
               [
-              InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚𝗕𝗢𝗧", url=f"https://github.com/TeamAloneOp/AloneXStringGenBot"),
-InlineKeyboardButton("𝗕𝗬𝗣𝗔𝗦𝗦", url=f"https://github.com/TeamAloneOp/AloneXBypass"),
+              InlineKeyboardButton("𝗔𝗡𝗝𝗔𝗟𝗜𝗦𝗧𝗥𝗜𝗡𝗚𝗕𝗢𝗧", url=f"https://t.me/AnjalixSessionBot"),
+              InlineKeyboardButton("𝗕𝗬𝗣𝗔𝗦𝗦", url=f"https://github.com/TeamAloneOp/AloneXBypass"),
 ],
 [
-InlineKeyboardButton("𝗥𝗪 𝗦𝗧𝗥𝗜𝗣𝗘", url=f"https://github.com/TeamAloneOp/kaali-Linux"),
-InlineKeyboardButton("𝗥𝗪 𝗗𝗘𝗣𝗟𝗢𝗬", url=f"https://github.com/TeamAloneOp/AloneXRailway"),
+InlineKeyboardButton("𝗙𝗜𝗟𝗘 𝗥𝗘𝗡𝗔𝗠𝗘 𝗕𝗢𝗧", url=f"https://t.me/AnjalixRenameBot"),
+InlineKeyboardButton("𝗧𝗚 𝗔𝗣𝗣𝗥𝗢𝗩𝗘 𝗕𝗢𝗧", url=f"https://t.me/AnjalixAppoveBot"),
 ],
 [
 InlineKeyboardButton("𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧", url=f"https://t.me/AloneXMusicBot"),
